@@ -1,7 +1,7 @@
 # A Witches Guide to Testing 👻🎃🕷
 Slides for the talk "A Witches Guide to Testing" given at [HalfStack Online 2](https://halfstackconf.com/online/) on 30th October 2020.
 
-View the slides here: [Slides](TO BE ADDED)
+View the slides here: [Slides](https://merelyanna.github.io/aWitchesGuideToTesting/)
 
 The talk was given by Christina Zenzes and Anna Backs.<br/>
 Christina's twitter: [merelyChristina](https://twitter.com/merelyChristina)<br/>
